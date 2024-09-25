@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Las flores son de muchos ramones
-=======
-Las flores son de muchos tipos
->>>>>>> 3b83a9627935919adc3ddd669bad3ebd3274de93
+aaaaa
